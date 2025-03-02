@@ -78,7 +78,7 @@ tools = [
     },
     {
         "type": "function",
-        "function": get_stock_price()
+        "function": get_stock_price_function
     }
 ]
 
